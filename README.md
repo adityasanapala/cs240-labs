@@ -4,13 +4,16 @@ All the labs solved during my CS240 course along with my teammate [Sonusree Bano
 
 [Tanvi Sree Jaishankar](https://github.com/TanviSree) joined post midsem due to unforeseen circumstances.
 
-## Lab 1
+
+# Theme 1: A* Search Algorithm
+
+## Lab 1: 8-board Problem
 
 viva by jaladhi
 marks: 95/100
 
 
-## Lab 2
+## Lab 2: Missionaries and Cannibals
 
 viva by dion
 marks: 90/100

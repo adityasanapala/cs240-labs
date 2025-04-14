@@ -9,36 +9,36 @@ All the labs solved during my CS240 course along with my teammate [Sonusree Bano
 
 ## Lab 1: 8-board Problem
 
-viva by jaladhi
+viva by [Jaladhi](https://github.com/JaladhiJ)
 marks: 95/100
 
 
 ## Lab 2: Missionaries and Cannibals
 
-viva by dion
+viva by Dion
 marks: 90/100
 
 
 ## Lab 3
-viva by thomas
+viva by [Thomas](https://github.com/megamind1729)
 marks: 80/100
 
-## Lab 4
-viva by sriram
+## Lab 4: Sigmoid Training
+viva by [Sriram](https://github.com/Saisriramsambaraju)
 marks: 75/100
 
 ## Lab 5
 viva by deeptanshu 
 marks: 80/100
 
-## midsem
+## Midsem: 8-Queen Problem
 marks:20/20
 
 ## Lab 6
 ungraded (technically 100/100)
 
 ## Lab 7
-viva by soham
+viva by [soham](https://github.com/SohamD1234)
 marks: 100/100
 
 ## Lab 8

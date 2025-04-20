@@ -64,7 +64,7 @@ All the labs solved during my CS240 course along with my teammate [Sonusree Bano
 - Viva by Deevyanshu Malu
 - Marks: 100/100
 
-# Theme 4: Natural Language Processing
+# Theme 5: Natural Language Processing
 
 ## Lab 9: POS Tagging with HMM (Part 1)
 

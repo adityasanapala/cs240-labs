@@ -20,7 +20,7 @@ All the labs solved during my CS240 course along with my teammate [Sonusree Bano
 
 # Theme 2: Neural Networks
 
-## Lab 3
+## Lab 3: Perceptron
 
 - Authors: Deeptanshu Malu and Deevyanshu Malu
 - Viva by [Thomas Biju Cheeramvelil](https://github.com/megamind1729)
@@ -75,9 +75,11 @@ All the labs solved during my CS240 course along with my teammate [Sonusree Bano
 ## Lab 10: POS Tagging with HMM (Part 2)
 
 - Authors: Deeptanshu Malu and Deevyanshu Malu
-- Viva by
-- Marks: 
+- Viva by Soham Dahane
+- Marks: 90/100
 
-## Endsem: Neural 
+## Endsem: Neural Networks with SVM
+
+- Marks: 30/30
 
 
